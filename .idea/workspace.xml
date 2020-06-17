@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdcd090a-109d-4099-998c-5696f6f42964" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YewCe0vay9to1DqR40V87B4bkR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/react-app/my-app" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marieta\Desktop\Projects\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdcd090a-109d-4099-998c-5696f6f42964" name="Default Changelist" comment="" />
+      <created>1583316242415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583316242415</updated>
+      <workItem from="1583316244783" duration="25082000" />
+      <workItem from="1583483795776" duration="14612000" />
+      <workItem from="1583504308729" duration="2869000" />
+      <workItem from="1583515446860" duration="860000" />
+      <workItem from="1583678438582" duration="6945000" />
+      <workItem from="1583737611863" duration="28689000" />
+      <workItem from="1583823628088" duration="27722000" />
+      <workItem from="1583910485848" duration="24960000" />
+      <workItem from="1583995154505" duration="21376000" />
+      <workItem from="1584020893435" duration="2612000" />
+      <workItem from="1584084643516" duration="24508000" />
+      <workItem from="1584341779813" duration="23116000" />
+      <workItem from="1584429387944" duration="26397000" />
+      <workItem from="1584514521464" duration="22122000" />
+      <workItem from="1584605422819" duration="22219000" />
+      <workItem from="1584694910235" duration="13918000" />
+      <workItem from="1584950428740" duration="11474000" />
+      <workItem from="1584963882631" duration="9367000" />
+      <workItem from="1585037312708" duration="4854000" />
+      <workItem from="1585210579219" duration="10598000" />
+      <workItem from="1585297806788" duration="16028000" />
+      <workItem from="1585555320175" duration="10342000" />
+      <workItem from="1585648843842" duration="1823000" />
+      <workItem from="1585737459939" duration="642000" />
+      <workItem from="1585759916111" duration="107000" />
+      <workItem from="1585807940961" duration="2651000" />
+      <workItem from="1585901984918" duration="1221000" />
+      <workItem from="1586506409338" duration="7822000" />
+      <workItem from="1586763501616" duration="22807000" />
+      <workItem from="1586849667510" duration="22379000" />
+      <workItem from="1586934120733" duration="21254000" />
+      <workItem from="1586961506452" duration="103000" />
+      <workItem from="1587021979567" duration="10606000" />
+      <workItem from="1587370292086" duration="5829000" />
+      <workItem from="1587464002884" duration="15931000" />
+      <workItem from="1587541538119" duration="16770000" />
+      <workItem from="1587623051217" duration="11952000" />
+      <workItem from="1587712260776" duration="2488000" />
+      <workItem from="1587967818901" duration="3000" />
+      <workItem from="1588241190108" duration="741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1583848283420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583848283420" />
+    <state x="361" y="71" key="#Servers" timestamp="1583329469895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Servers/0.0.1536.824/-3840.-277.2560.1400@0.0.1536.824" timestamp="1583329469895" />
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585648997192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585648997192" />
+    <state x="148" y="174" key="FileChooserDialogImpl" timestamp="1588666730698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="148" y="174" key="FileChooserDialogImpl/0.0.1536.824/-3840.-1076.2560.1400@0.0.1536.824" timestamp="1588666730698" />
+    <state x="148" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585902009759" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1583337519721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-3840.-277.2560.1400@0.0.1536.824" timestamp="1583337519721" />
+    <state x="-3132" y="-758" key="run.anything.popup" timestamp="1587372205406">
+      <screen x="-3840" y="-1076" width="2560" height="1400" />
+    </state>
+    <state x="-3132" y="-758" key="run.anything.popup/0.0.1536.824/-3840.-1076.2560.1400@-3840.-1076.2560.1400" timestamp="1587372205406" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584369944290" />
+    <state x="47" y="146" width="672" height="679" key="search.everywhere.popup" timestamp="1587465807074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-3762" y="-828" width="1120" height="1152" key="search.everywhere.popup/0.0.1536.824/-3840.-1076.2560.1400@-3840.-1076.2560.1400" timestamp="1586768679710" />
+    <state x="47" y="146" width="672" height="679" key="search.everywhere.popup/0.0.1536.824/-3840.-1076.2560.1400@0.0.1536.824" timestamp="1587465807074" />
+    <state x="47" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584628110722" />
+  </component>
+</project>

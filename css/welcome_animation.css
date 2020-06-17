@@ -1,0 +1,516 @@
+@media screen and (min-width: 1400px){
+#welcomeAnimation .box {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  height: calc(50% + 4px);
+  z-index: 99;
+  text-align: center;
+  font-family: Muli-Black;
+  cursor: pointer;
+  background-color: #8897ab;
+}
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 300px;
+    height: 300px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 60px;
+    color: #fff;
+    letter-spacing: 40px;
+    padding-left: 22px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px){
+
+  #welcomeAnimation .box {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: calc(50% + 4px);
+    z-index: 99;
+    text-align: center;
+    font-family: Muli-Black;
+    cursor: pointer;
+    background-color: #8897ab;
+  }
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 300px;
+    height: 300px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 60px;
+    color: #fff;
+    letter-spacing: 40px;
+    padding-left: 22px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+}
+
+/*=== TABLET ===*/
+@media screen and (min-width: 1022px) and (max-width: 1200px) {
+
+  #welcomeAnimation .box {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: calc(50% + 4px);
+    z-index: 99;
+    text-align: center;
+    font-family: Muli-Black;
+    cursor: pointer;
+    background-color: #8897ab;
+  }
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 300px;
+    height: 300px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 60px;
+    color: #fff;
+    letter-spacing: 40px;
+    padding-left: 22px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+}
+
+@media screen and (min-width: 766px) and (max-width: 1022px) {
+
+  #welcomeAnimation .box {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: calc(50% + 4px);
+    z-index: 99;
+    text-align: center;
+    font-family: Muli-Black;
+    cursor: pointer;
+    background-color: #8897ab;
+  }
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 250px;
+    height: 250px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 50px;
+    color: #fff;
+    letter-spacing: 40px;
+    padding-left: 22px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+}
+
+/*=== MOBILE ===*/
+@media screen and (min-width: 478px) and (max-width: 766px) {
+
+  #welcomeAnimation .box {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: calc(50% + 4px);
+    z-index: 99;
+    text-align: center;
+    font-family: Muli-Black;
+    cursor: pointer;
+    background-color: #8897ab;
+  }
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 200px;
+    height: 200px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 40px;
+    color: #fff;
+    letter-spacing: 31px;
+    padding-left: 22px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 478px) {
+
+  #welcomeAnimation .box {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: calc(50% + 4px);
+    z-index: 99;
+    text-align: center;
+    font-family: Muli-Black;
+    cursor: pointer;
+    background-color: #8897ab;
+  }
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 120px;
+    height: 120px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 24px;
+    color: #fff;
+    letter-spacing: 16px;
+    padding-left: 7px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+}
+
+@media screen and (max-width: 350px){
+
+  #welcomeAnimation .box {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    height: calc(50% + 4px);
+    z-index: 99;
+    text-align: center;
+    font-family: Muli-Black;
+    cursor: pointer;
+    background-color: #8897ab;
+  }
+
+  .closingBox {
+    height: 0!important;
+    overflow: hidden;
+    transition: .8s;
+  }
+
+  #welcomeAnimation .box:first-child {
+    z-index: 10;
+  }
+
+  #welcomeAnimation #welcomeAnimationIcon {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #f6ff00;
+    font-size: 100px;
+    height: 100px;
+  }
+
+  #welcomeAnimation .collapseIconWord {
+    height: 0!important;
+    overflow: hidden;
+    transition: 1s;
+  }
+
+  #welcomeAnimation #first_yellow_line {
+    position: absolute;
+    bottom: 0;
+  }
+
+  #welcomeAnimation .yellow_line {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background-color: #f6ff00;
+  }
+
+  #welcomeAnimation .stretchYellowLine {
+    height: 4px!important;
+    width: 100%!important;
+    transition: height .2s, width .8s;
+  }
+
+  #welcomeAnimation #welcomeAnimationWorldwide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    font-size: 17px;
+    color: #fff;
+    letter-spacing: 16px;
+    padding-left: 7px;
+  }
+
+  #welcomeAnimation .collapseWorldwide {
+    opacity: 0;
+    transition: .8s;
+  }
+}
+
+@media print {
+
+}

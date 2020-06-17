@@ -1,0 +1,893 @@
+@media screen and (min-width: 1400px) {
+  #last_section {
+    width: 100%;
+    height: 70vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 35vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 1300px;
+    position: absolute;
+    top: calc(50% - 67px);
+    left: calc((100% - 1300px) / 2);
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 380px;
+    color: #fff;
+    font-size: 40px;
+    line-height: 45px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: absolute;
+    top: 20px;
+    right: 132px;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 25px;
+    font-size: 26px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 1px solid #f6ff00;
+    width: 110px;
+    font-size: 16px;
+    text-align: center;
+    padding: 6px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+    cursor: pointer;
+    color: #292929;
+    background-color: #f6ff00;
+    transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 35vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 1300px;
+    height: 35vh;
+    margin: 0 auto;
+    background-image: url("../img/buildings.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: calc(50% - 71px);
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 80px;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    right: 0;
+    top: calc(50% - 54px);
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+  }
+
+  .list_cities li {
+    font-family: Muli-Black;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .list_cities:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+  #last_section {
+    width: 100%;
+    height: 70vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 35vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 1100px;
+    position: absolute;
+    top: calc(50% - 67px);
+    left: calc((100% - 1100px) / 2);
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 380px;
+    color: #fff;
+    font-size: 40px;
+    line-height: 45px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: absolute;
+    top: 20px;
+    right: 132px;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 25px;
+    font-size: 26px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 1px solid #f6ff00;
+    width: 110px;
+    font-size: 16px;
+    text-align: center;
+    padding: 6px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+      cursor: pointer;
+      color: #292929;
+      background-color: #f6ff00;
+      transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 35vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 1100px;
+    height: 35vh;
+    margin: 0 auto;
+    background-image: url("../img/buildings.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: calc(50% - 71px);
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 80px;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    right: 0;
+    top: calc(50% - 54px);
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+  }
+
+  .list_cities li {
+    font-family: Muli-Black;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .list_cities:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+/*=== TABLET ===*/
+@media screen and (min-width: 1022px) and (max-width: 1200px) {
+  #last_section {
+    width: 100%;
+    height: 70vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 35vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 922px;
+    position: relative;
+    margin: 0 auto;
+    top: calc(50% - 67px);
+
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 380px;
+    color: #fff;
+    font-size: 34px;
+    line-height: 40px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: absolute;
+    top: 20px;
+    right: 132px;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 25px;
+    font-size: 22px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 1px solid #f6ff00;
+    width: 100px;
+    font-size: 14px;
+    text-align: center;
+    padding: 6px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+    cursor: pointer;
+    color: #292929;
+    background-color: #f6ff00;
+    transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 35vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 922px;
+    height: 35vh;
+    margin: 0 auto;
+    background-image: url("../img/buildings.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: calc(50% - 71px);
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 65px;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    right: 0;
+    top: calc(50% - 54px);
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+  }
+
+  .list_cities li {
+    font-family: Muli-Black;
+    font-size: 18px;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .list_cities:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 766px) and (max-width: 1022px) {
+  #last_section {
+    width: 100%;
+    height: 60vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 35vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 650px;
+    position: relative;
+    margin: 0 auto;
+    top: 3vh;
+
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 422px;
+    color: #fff;
+    font-size: 45px;
+    line-height: 50px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: relative;
+    left: 0;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 45px;
+    margin-top: 45px;
+    font-size: 25px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 2px solid #f6ff00;
+    width: 122px;
+    font-size: 19px;
+    text-align: center;
+    padding: 9px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+    cursor: pointer;
+    color: #292929;
+    background-color: #f6ff00;
+    transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 25vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 650px;
+    height: 25vh;
+    margin: 0 auto;
+    background-image: url("../img/buildings.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: 2vh;
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 65px;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    left: 0;
+    bottom: 2vh;
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    font-size: 21px;
+    line-height: 55px;
+    position: relative;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+  }
+
+  .list_cities li {
+    font-family: Muli-Black;
+    font-size: 20px;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .list_cities:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+/*=== MOBILE ===*/
+@media screen and (min-width: 478px) and (max-width: 766px) {
+  #last_section {
+    width: 100%;
+    height: 60vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 40vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 460px;
+    position: relative;
+    margin: 0 auto;
+    top: 8vh;
+
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 397px;
+    color: #fff;
+    font-size: 35px;
+    line-height: 44px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: relative;
+    left: 0;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 34px;
+    margin-top: 30px;
+    font-size: 25px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 2px solid #f6ff00;
+    width: 88px;
+    font-size: 12px;
+    text-align: center;
+    padding: 6px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+    cursor: pointer;
+    color: #292929;
+    background-color: #f6ff00;
+    transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 20vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 460px;
+    height: 25vh;
+    margin: 0 auto;
+    background-image: url("../img/buildings.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: 28px;
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 50px;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    left: 0;
+    bottom: 82px;
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    font-size: 21px;
+    line-height: 34px;
+    position: relative;
+    padding-bottom: 10px;
+  }
+
+  .list_cities li {
+    font-family: Muli-Black;
+    font-size: 20px;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .list_cities li:first-child{
+    padding-left: 0;
+  }
+  .list_cities li:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 478px) {
+  #last_section {
+    width: 100%;
+    height: 60vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 35vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 300px;
+    position: relative;
+    margin: 0 auto;
+    top: 40px;
+
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 267px;
+    color: #fff;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: relative;
+    left: 0;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    font-size: 18px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 2px solid #f6ff00;
+    width: 69px;
+    font-size: 10px;
+    text-align: center;
+    padding: 6px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+    cursor: pointer;
+    color: #292929;
+    background-color: #f6ff00;
+    transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 25vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 300px;
+    height: 25vh;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: 28px;
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 35px;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    left: 0;
+    bottom: 38px;
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    font-size: 20px;
+    line-height: 34px;
+    position: relative;
+    padding-bottom: 10px;
+  }
+
+  .list_cities li {
+    font-family: Muli-Black;
+    font-size: 15px;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+  .list_cities li:first-child{
+    padding-left: 0;
+  }
+  .list_cities li:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  #last_section {
+    width: 100%;
+    height: 60vh;
+    position: relative;
+  }
+
+  #contact_us {
+    width: 100%;
+    height: 35vh;
+    background-color: #292929;
+    position: relative;
+  }
+
+  #contact_us_container {
+    width: 300px;
+    position: relative;
+    margin: 0 auto;
+    top: 28px;
+
+  }
+
+  #contact_us_container h2 {
+    display: inline-block;
+    width: 223px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: Muli-Black;
+  }
+
+  #contact_us_container h2 span {
+    color: #f6ff00;
+  }
+
+  #btn_contact_area {
+    position: relative;
+    left: 0;
+  }
+
+  #btn_contact_area p {
+    color: #fff;
+    font-family: Muli-Light, sans-serif;
+    margin-bottom: 19px;
+    margin-top: 19px;
+    font-size: 16px;
+  }
+
+  #btn_contact_us {
+    font-family: Muli-Light, sans-serif;
+    color: #f6ff00;
+    background: #292929;
+    border: 2px solid #f6ff00;
+    width: 58px;
+    font-size: 8px;
+    text-align: center;
+    padding: 4px 0;
+    box-sizing: border-box;
+  }
+
+  #btn_contact_us:hover {
+    cursor: pointer;
+    color: #292929;
+    background-color: #f6ff00;
+    transition: .2s;
+  }
+
+  #location {
+    width: 100%;
+    height: 25vh;
+    background-color: #FFFFFF;
+    position: relative;
+  }
+
+  #location_container {
+    width: 300px;
+    height: 25vh;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    background-position: center;
+    position: relative;
+  }
+
+  #location_left_div {
+    position: absolute;
+    top: 20px;
+    left: 0;
+  }
+
+  #location_left_div h2 {
+    font-family: Muli-Black;
+    font-size: 29px;
+  }
+  #location_left_div .black_line {
+    width: 60px;
+    height: 2px;
+    margin: 10px 0;
+    background-color: #292929;
+  }
+
+  #location_right_div {
+    font-size: 22px;
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+  }
+
+  #location_right_div p {
+    font-family: Muli-Light;
+    font-size: 15px;
+    line-height: 20px;
+    position: relative;
+    padding-bottom: 10px;
+  }
+
+  .list_cities li {
+    float: left;
+    font-family: Muli-Black;
+    font-size: 15px;
+    display: inline;
+    list-style: none;
+    border-right: 3px solid;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+  .list_cities li:first-child{
+    padding-left: 0;
+  }
+  .list_cities li:last-child {
+    border-right: none;
+    padding-right: 0;
+  }
+}
+
+@media print {
+
+}

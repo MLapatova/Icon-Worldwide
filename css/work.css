@@ -1,0 +1,896 @@
+@media screen and (min-width: 1400px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 1300px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 20px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 80px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 150px;
+    height: 2px;
+    margin: 30px 0;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 76vh;
+    box-sizing: border-box;
+    padding-bottom: 3vh;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+    transition: all .2s ease-in-out;
+  }
+
+  .project:hover {
+    background-size: 200%;
+  }
+
+  .project:hover .project_title{
+    padding: 50px 0 30px 30px;
+    transition: .2s;
+    font-size: 35px;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    left: calc(50% - 200px);
+  }
+
+  .project:nth-of-type(3) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(4) {
+    left: 0;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 400px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 610px;
+    position: absolute;
+    bottom: 3vh;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 20px 0 20px 30px;
+    box-sizing: border-box;
+    transition: .2s;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 30px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 1100px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 20px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 80px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 150px;
+    height: 2px;
+    margin: 30px 0;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 74vh;
+    box-sizing: border-box;
+    padding-bottom: 3vh;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+    transition: all .2s ease-in-out;
+  }
+
+  .project:hover {
+   background-size: 200%;
+  }
+
+  .project:hover .project_title{
+    padding: 50px 0 30px 30px;
+    transition: .2s;
+    font-size: 35px;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    left: calc(50% - 146px);
+  }
+
+  .project:nth-of-type(3) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(4) {
+    left: 0;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 298px;
+    height: 210px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 506px;
+    position: absolute;
+    bottom: 3vh;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 20px 0 20px 30px;
+    box-sizing: border-box;
+    transition: .2s;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 26px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}
+
+/*=== TABLET ===*/
+@media screen and (min-width: 1022px) and (max-width: 1200px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 922px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 40px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 65px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 150px;
+    height: 2px;
+    margin: 20px 0 80px;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 84vh;
+    box-sizing: border-box;
+    margin-top: 72px;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(3) {
+    top: calc(43vh - 195px);
+    left: 0;
+  }
+
+  .project:nth-of-type(4) {
+    right: 0;
+    top: calc(43vh - 195px);
+    width: 48%;
+    height: 324px;
+    position: absolute;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 48%;
+    height: 324px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 100%;
+    position: absolute;
+    height: 368px;
+    bottom: 0;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 20px 0 20px 30px;
+    box-sizing: border-box;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 23px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}
+
+@media screen and (min-width: 766px) and (max-width: 1022px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 650px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 40px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 45px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 120px;
+    height: 2px;
+    margin: 20px 0;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 74vh;
+    box-sizing: border-box;
+    margin-top: 72px;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(3) {
+    top: calc(43vh - 195px);
+    left: 0;
+  }
+
+  .project:nth-of-type(4) {
+    right: 0;
+    top: calc(43vh - 195px);
+    width: 310px;
+    height: 210px;
+    position: absolute;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 310px;
+    height: 210px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 648px;
+    position: absolute;
+    height: 268px;
+    bottom: 0;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 20px 0 20px 30px;
+    box-sizing: border-box;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 23px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}
+
+/*=== MOBILE ===*/
+@media screen and (min-width: 478px) and (max-width: 766px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 460px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 40px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 45px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 120px;
+    height: 2px;
+    margin: 20px 0;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 74vh;
+    box-sizing: border-box;
+    margin-top: 72px;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(3) {
+    top: calc(43vh - 176px);
+    left: 0;
+  }
+
+  .project:nth-of-type(4) {
+    right: 0;
+    top: calc(43vh - 176px);
+    width: 220px;
+    height: 230px;
+    position: absolute;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 220px;
+    height: 230px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 460px;
+    position: absolute;
+    height: 230px;
+    bottom: 0;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 20px 0 20px 14px;
+    box-sizing: border-box;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 18px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 478px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 330px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 40px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 35px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 100px;
+    height: 2px;
+    margin: 10px 0;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 74vh;
+    box-sizing: border-box;
+    margin-top: 72px;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(3) {
+    top: calc(43vh - 130px);
+    left: 0;
+  }
+
+  .project:nth-of-type(4) {
+    right: 0;
+    top: calc(43vh - 130px);
+    width: 48%;
+    height: 170px;
+    position: absolute;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 48%;
+    height: 170px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 330px;
+    position: absolute;
+    height: 170px;
+    bottom: 0;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 20px 0 20px 10px;
+    box-sizing: border-box;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 14px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}
+
+@media screen and (max-width: 350px) {
+  #sixth_section {
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 100vh;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_container {
+    width: 300px;
+    height: 100vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  #sixth_section_top_part {
+    position: relative;
+    padding-top: 40px;
+    box-sizing: border-box;
+  }
+
+  #sixth_section_top_part h2 {
+    font-size: 25px;
+    font-family: Muli-Black, sans-serif;
+    color: #292929;
+  }
+
+  .black_line {
+    width: 80px;
+    height: 2px;
+    margin: 10px 0;
+    background-color: #292929;
+  }
+
+  #sixth_section_bottom_part {
+    position: relative;
+    height: 74vh;
+    box-sizing: border-box;
+    margin-top: 50px;
+  }
+
+  .project {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    height: 34vh;
+    position: relative;
+  }
+
+  .project:first-of-type {
+    top: 0;
+    left: 0;
+  }
+
+  .project:nth-of-type(2) {
+    top: 0;
+    right: 0;
+  }
+
+  .project:nth-of-type(3) {
+    top: calc(43vh - 92px);
+    left: 0;
+  }
+
+  .project:nth-of-type(4) {
+    right: 0;
+    top: calc(43vh - 92px);
+    width: 48%;
+    height: 115px;
+    position: absolute;
+  }
+  .project:last-child {
+    right: 0;
+  }
+
+  .small_project {
+    width: 48%;
+    height: 115px;
+    position: absolute;
+  }
+
+  .big_project {
+    width: 300px;
+    position: absolute;
+    height: 115px;
+    bottom: 0;
+  }
+
+  .project_title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #292929;
+    padding: 12px 0 10px 10px;
+    box-sizing: border-box;
+  }
+
+  .project_title h4 {
+    font-family: Muli-Black, sans-serif;
+    font-size: 10px;
+    color: #f6ff00;
+  }
+
+  #small_1 {
+    background-image: url("../img/idday.png");
+  }
+
+  #small_2 {
+    background-image: url("../img/nuyu_project.png");
+  }
+
+  #small_3 {
+    background-image: url("../img/firefly.png");
+  }
+  #big_1 {
+    background-image: url("../img/ceibs.png");
+  }
+  #big_2 {
+    background-image: url("../img/Frankfurt_Blog_herospaceResearch.png");
+  }
+}

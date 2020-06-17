@@ -1,0 +1,1020 @@
+@media screen and (min-width: 1400px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 50%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    width: 50%;
+    height: 100vh;
+    display: inline-block;
+    position: relative;
+    float: right;
+    vertical-align: top;
+    background-color: #8897ab;
+  }
+
+  .service_left_div #box_images {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 25%;
+    left: 5%;
+  }
+
+  .first_row {
+    margin-top: 12px;
+    margin-left: 166px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: 104px;
+  }
+
+  .second_row {
+    margin-top: 18px;
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: 76px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 320px;
+    text-align: center;
+  }
+
+  .third_row {
+    margin-top: 38px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: 60px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    margin-left: 296px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 18px;
+    margin-left: 150px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: 104px;
+    text-align: center;
+  }
+
+  #box_images div div:hover img {
+    width: 65px;
+    transition: .2s;
+  }
+
+  #box_images div #strategy:hover img{
+    width: 35px !important;
+  }
+
+  #service_first_section #box_images div div p {
+    margin: 0 auto;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #box_images div div:hover {
+    cursor: pointer;
+  }
+
+ #service_first_section #box_images div div:hover p {
+    font-family: Italic Playfair Display, sans-serif;
+  }
+
+  #box_images .menu_text_inner_services {
+    position: fixed;
+    top: 20%;
+    left: 57%;
+    z-index: 8;
+    height: 260px;
+    width: 500px;
+    text-align: left;
+    display: none;
+    background-color: #8897ab;
+  }
+
+  #box_images div div:hover .menu_text_inner_services {
+    display: block;
+  }
+
+  #box_images .menu_text_inner_services h3 {
+    color: #f6ff00;
+    font-family: Muli-ExtraBold,sans-serif;
+    font-size: 22px;
+  }
+
+  #box_images div div .menu_text_inner_services p {
+    color: #fff;
+    font-family: Muli-Regular,sans-serif !important;
+    font-size: 22px;
+    line-height: 26px;
+    margin-top: 10px;
+  }
+
+  #service_first_section .services_right_div p {
+    width: 500px;
+    font-size: 23px;
+    line-height: 26px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+  }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 50%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    width: 50%;
+    height: 100vh;
+    display: inline-block;
+    position: relative;
+    float: right;
+    vertical-align: top;
+    background-color: #8897ab;
+  }
+
+  .service_left_div #box_images {
+    width: 525px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+  }
+
+  .service_left_div #box_images div {
+  }
+
+  .first_row {
+    margin-top: 12px;
+    margin-left: 166px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: 104px;
+  }
+
+  .second_row {
+    margin-top: 18px;
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: 76px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 312px;
+    text-align: center;
+  }
+
+  .third_row {
+    margin-top: 24px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: 60px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    margin-left: 296px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 18px;
+    margin-left: 150px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: 104px;
+    text-align: center;
+  }
+
+  #box_images div div:hover img {
+    width: 65px;
+    transition: .2s;
+  }
+
+  #box_images div #strategy:hover img{
+    width: 35px !important;
+  }
+
+  #service_first_section #box_images div div p {
+    margin: 0 auto;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #box_images div div:hover {
+    cursor: pointer;
+  }
+
+  #service_first_section #box_images div div:hover p {
+    font-family: Italic Playfair Display, sans-serif;
+  }
+
+  #box_images .menu_text_inner_services {
+    position: fixed;
+    top: 20%;
+    left: 57%;
+    z-index: 8;
+    height: 260px;
+    width: 500px;
+    text-align: left;
+    display: none;
+    background-color: #8897ab;
+  }
+
+  #box_images div div:hover .menu_text_inner_services {
+    display: block;
+  }
+
+  #box_images .menu_text_inner_services h3 {
+    color: #f6ff00;
+    font-family: Muli-ExtraBold,sans-serif;
+    font-size: 22px;
+  }
+
+  #box_images .menu_text_inner_services p {
+    color: #fff;
+    font-family: Muli-Regular,sans-serif !important;
+    font-size: 22px;
+    line-height: 26px;
+    margin-top: 10px;
+  }
+
+
+  #service_first_section .services_right_div p {
+    width: 400px;
+    font-size: 20px;
+    line-height: 24px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 48%;
+    right: 55%;
+  }
+}
+
+/*=== TABLET ===*/
+@media screen and (min-width: 1022px) and (max-width: 1200px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    display: none;
+  }
+
+  .service_left_div #box_images {
+    width: 645px;
+    height: 730px;
+    position: absolute;
+    top: 20%;
+    left: 19%;
+  }
+
+  .service_left_div #box_images div div {
+    width: 250px;
+  }
+
+  .service_left_div #box_images div img {
+    width: 100px;
+    height: auto;
+  }
+
+  .first_row {
+    margin-left: 64px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .service_left_div #box_images #strategy img {
+    width: 50px;
+  }
+
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: -40px;
+  }
+
+  .second_row {
+    margin-top: 18px;
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: -72px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 212px;
+    text-align: center;
+  }
+
+  .third_row {
+    margin-top: 36px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: -70px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    margin-left: 210px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 18px;
+    margin-left: 64px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: -50px;
+    text-align: center;
+  }
+
+  #service_first_section #box_images p {
+    margin: 0 auto;
+    font-size: 30px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #service_first_section .services_right_div p {
+    font-size: 30px;
+    line-height: 24px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+  }
+}
+
+@media screen and (min-width: 766px) and (max-width: 1022px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    display: none;
+  }
+
+  .service_left_div #box_images {
+    width: 645px;
+    height: 730px;
+    position: absolute;
+    top: 20%;
+    left: 14%;
+  }
+
+  .service_left_div #box_images div div {
+    width: 250px;
+  }
+
+  .service_left_div #box_images div img {
+    width: 100px;
+    height: auto;
+  }
+
+  .first_row {
+    margin-left: 64px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .service_left_div #box_images #strategy img {
+    width: 60px;
+  }
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: -40px;
+  }
+
+  .second_row {
+    margin-top: 18px;
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: -72px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 212px;
+    text-align: center;
+  }
+
+  .third_row {
+    margin-top: 36px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: -70px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    margin-left: 210px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 18px;
+    margin-left: 64px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: -50px;
+    text-align: center;
+  }
+
+  #service_first_section #box_images p {
+    margin: 0 auto;
+    font-size: 30px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #service_first_section .services_right_div p {
+    font-size: 30px;
+    line-height: 24px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+  }
+}
+
+/*=== MOBILE ===*/
+@media screen and (min-width: 478px) and (max-width: 766px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    display: none;
+  }
+
+  .service_left_div #box_images {
+    width: 450px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left: 16%;
+  }
+
+  .service_left_div #box_images div div {
+    width: 160px;
+  }
+
+  .service_left_div #box_images div img {
+    width: 60px;
+    height: auto;
+  }
+
+  .first_row {
+    margin-left: 64px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .service_left_div #box_images #strategy img {
+    width: 35px;
+  }
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: -30px;
+  }
+
+  .second_row {
+    margin-top: 18px;
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: -44px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 170px;
+    text-align: center;
+  }
+
+  .third_row {
+    margin-top: 36px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: -44px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    margin-left: 170px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 18px;
+    margin-left: 78px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+    margin-left: -20px;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: -30px;
+    text-align: center;
+  }
+
+  #service_first_section #box_images p {
+    margin: 0 auto;
+    font-size: 22px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #service_first_section .services_right_div p {
+    font-size: 30px;
+    line-height: 24px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 478px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    display: none;
+  }
+
+  .service_left_div #box_images {
+    width: 300px;
+    height: 325px;
+    position: absolute;
+    top: 20%;
+    left: 11%;
+  }
+
+  .service_left_div #box_images div div {
+    width: 100px;
+  }
+
+  .service_left_div #box_images div img {
+    width: 40px;
+    height: auto;
+  }
+
+  .first_row {
+    margin-left: 42px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .service_left_div #box_images #strategy img {
+    width: 20px;
+  }
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: -12px;
+  }
+
+  .second_row {
+    margin-top: 18px;
+
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: -26px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 122px;
+    text-align: center;
+  }
+
+  .third_row {
+    margin-top: 36px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: -26px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    margin-left: 122px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 18px;
+    margin-left: 74px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+    margin-left: -30px;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: -6px;
+    text-align: center;
+  }
+
+  #service_first_section #box_images p {
+    margin: 0 auto;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #service_first_section .services_right_div p {
+    font-size: 30px;
+    line-height: 24px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  #service_first_section {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .service_left_div {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    display: inline-block;
+    background-color: #292929;
+
+  }
+
+  .services_right_div {
+    display: none;
+  }
+
+  .service_left_div #box_images {
+    width: 225px;
+    height: 268px;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+  }
+
+  .service_left_div #box_images div div {
+    width: 90px;
+  }
+
+  .service_left_div #box_images div img {
+    width: 30px;
+    height: auto;
+  }
+
+  .first_row {
+    margin-left: 28px;
+  }
+
+  #strategy {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .service_left_div #box_images #strategy img {
+    width: 15px;
+  }
+
+  #website {
+    display: inline-block;
+    text-align: center;
+    margin-left: -12px;
+  }
+
+  .second_row {
+    margin-top: 12px;
+
+  }
+
+  #design {
+    display: inline-block;
+    margin-left: -26px;
+    text-align: center;
+  }
+
+  #mobile {
+    display: inline-block;
+    margin-left: 122px;
+    text-align: center;
+    position: absolute;
+    right: -28px;
+  }
+
+  .third_row {
+    margin-top: 26px;
+  }
+
+  #technology {
+    display: inline-block;
+    margin-left: -26px;
+    text-align: center;
+  }
+
+  #sem {
+    display: inline-block;
+    position: absolute;
+    right: -26px;
+    text-align: center;
+  }
+
+  .fourth_row {
+    margin-top: 14px;
+    margin-left: 56px;
+  }
+
+  #it_sourcing {
+    display: inline-block;
+    text-align: center;
+    margin-left: -30px;
+  }
+
+  #seo {
+    display: inline-block;
+    margin-left: -6px;
+    text-align: center;
+  }
+
+  #service_first_section #box_images p {
+    margin: 0 auto;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-family: Muli, Regular, sans-serif;
+  }
+
+  #service_first_section .services_right_div p {
+    font-size: 30px;
+    line-height: 24px;
+    position: relative;
+    top: 23%;
+    left: 14%;
+    text-align: left;
+    font-family: Muli-Regular, sans-serif;
+    color: #FFFFFF;
+    margin-top: 10px;
+  }
+
+  .services_right_div img {
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+  }
+}
+
+@media print {
+
+}

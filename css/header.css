@@ -1,0 +1,583 @@
+@media screen and (min-width: 1400px) {
+  #header {
+    background-color: #292929;
+  }
+  #inner_header {
+    width: 1300px;
+    height: 55px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 110px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 16px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    padding: 0 10px;
+  }
+
+  .header_nav_menu li:hover {
+    cursor: pointer;
+
+  }
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -4px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid #F6FF00;
+    background-color: #292929;
+    color: #F6FF00;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+
+  .clear_right{
+    clear: right;
+  }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+  #header {
+    background-color: #292929;
+  }
+
+  #inner_header {
+    width: 1100px;
+    height: 55px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 100px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 22px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    padding: 0 10px;
+  }
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -4px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid #F6FF00;
+    background-color: #292929;
+    color: #F6FF00;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+  .clear_right{
+    clear: right;
+  }
+
+}
+
+/*=== TABLET ===*/
+@media screen and (min-width: 1022px) and (max-width: 1200px) {
+  #header {
+    background-color: #292929;
+  }
+
+  #inner_header {
+    width: 922px;
+    height: 66px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 100px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    padding: 0 10px;
+  }
+
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -8px;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    width: 54px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid  #F6FF00;
+    background-color: #292929;
+    color: #F6FF00;
+    width: 94px;
+    padding: 6px 0;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+  .clear_right{
+    clear: right;
+  }
+
+}
+
+@media screen and (min-width: 766px) and (max-width: 1022px) {
+  #header {
+    background-color: #292929;
+  }
+
+  #inner_header {
+    width: 650px;
+    height: 66px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 100px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    padding: 0 10px;
+  }
+
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -8px;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    width: 50px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid  #F6FF00;
+    background-color: #292929;
+    color: #F6FF00;
+    width: 94px;
+    padding: 6px 0;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+
+  .clear_right{
+    clear: right;
+  }
+
+}
+
+/*=== MOBILE ===*/
+@media screen and (min-width: 478px) and (max-width: 766px) {
+  #header {
+    background-color: #292929;
+  }
+
+  #inner_header {
+    width: 460px;
+    height: 66px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 70px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    margin-right: 15px;
+  }
+  .header_nav_menu li:last-child {
+    margin-right: 0;
+  }
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -8px;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    width: 30px;
+    font-size: 11px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid  #F6FF00;
+    background-color: #292929;
+    font-size: 12px;
+    color: #F6FF00;
+    width: 70px;
+    padding: 3px 0;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+
+  .clear_right{
+    clear: right;
+  }
+}
+
+@media screen and (min-width: 350px) and (max-width: 478px) {
+  #header {
+    background-color: #292929;
+  }
+
+  #inner_header {
+    width: 330px;
+    height: 42px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 50px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    margin-right: 6px;
+  }
+  .header_nav_menu li:last-child {
+    margin-right: 0;
+  }
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -8px;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    width: 25px;
+    font-size: 10px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid  #F6FF00;
+    background-color: #292929;
+    font-size: 9px;
+    color: #F6FF00;
+    width: 52px;
+    padding: 3px 0;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+
+  .clear_right{
+    clear: right;
+  }
+}
+
+@media screen and (max-width: 350px){
+  #header {
+    background-color: #292929;
+  }
+
+  #inner_header {
+    width: 300px;
+    height: 38px;
+    margin: 0 auto;
+    position: relative;
+    justify-content: space-between;
+  }
+
+  #header_logo {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 16px;
+  }
+
+  #header_logo a img {
+    width: 40px;
+    display: inline-block;
+  }
+
+  .header_nav_menu {
+    float: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+
+  .header_nav_menu li {
+    float: left;
+    text-align: center;
+    margin-right: 6px;
+  }
+  .header_nav_menu li:last-child {
+    margin-right: 0;
+  }
+
+  .header_nav_menu li a, button {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Muli-Light, sans-serif;
+    margin-top: -8px;
+  }
+
+  .header_nav_menu li a, button {
+    color: #ffffff;
+    width: 25px;
+    font-size: 10px;
+    transition: .2s;
+  }
+
+  .header_nav_menu li a:hover {
+    color: #f6ff00;
+    font-family: "Italic Playfair Display";
+    transition: .2s;
+  }
+
+  #header_button {
+    border: 1px solid  #F6FF00;
+    background-color: #292929;
+    font-size: 9px;
+    color: #F6FF00;
+    width: 52px;
+    padding: 3px 0;
+    transition: .2s;
+  }
+
+  #header_button:hover {
+    color: #292929;
+    background-color: #f6ff00;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: pointer;
+  }
+
+  .clear_right{
+    clear: right;
+  }
+}
+
+@media print {
+
+}
+

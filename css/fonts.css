@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Muli-Black";
+  src: url(../fonts/Muli/Muli-Black.woff2) format('woff2'),
+  url(../fonts/Muli/Muli-Black.woff) format('woff'),
+  url(../fonts/Muli/Muli-Black.ttf) format('truetype'),
+  url(../fonts/Muli/Muli-Black.otf) format('opentype'),
+  url(../fonts/Muli/Muli-Black.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Muli-Light";
+  src: url(../fonts/Muli/Muli_Light.woff2) format('woff2'),
+  url(../fonts/Muli/Muli_Light.woff) format('woff'),
+  url(../fonts/Muli/Muli_Light.ttf) format('truetype'),
+  url(../fonts/Muli/Muli_Light.otf) format('opentype'),
+  url(../fonts/Muli/Muli_Light.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Muli";
+  src: url(../fonts/Muli/Muli.woff2) format('woff2'),
+  url(../fonts/Muli/Muli.woff) format('woff'),
+  url(../fonts/Muli/Muli.ttf) format('truetype'),
+  url(../fonts/Muli/Muli.otf) format('opentype'),
+  url(../fonts/Muli/Muli.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Muli-Bold";
+  src: url(../fonts/Muli/Muli-Bold.woff2) format('woff2'),
+  url(../fonts/Muli/Muli-Bold.woff) format('woff'),
+  url(../fonts/Muli/Muli-Bold.ttf) format('truetype'),
+  url(../fonts/Muli/Muli-Bold.otf) format('opentype'),
+  url(../fonts/Muli/Muli-Bold.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Muli-Italic";
+  src: url(../fonts/Muli/Muli-Italic.woff2) format('woff2'),
+  url(../fonts/Muli/Muli-Italic.woff) format('woff'),
+  url(../fonts/Muli/Muli-Italic.ttf) format('truetype'),
+  url(../fonts/Muli/Muli-Italic.otf) format('opentype'),
+  url(../fonts/Muli/Muli-Italic.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Italic Playfair Display";
+  src: url(../fonts/Playfair/PlayfairDisplay-Italic.woff2) format('woff2'),
+  url(../fonts/Playfair/PlayfairDisplay-Italic.woff) format('woff'),
+  url(../fonts/Playfair/PlayfairDisplay-Italic.ttf) format('truetype'),
+  url(../fonts/Playfair/PlayfairDisplay-Italic.otf) format('opentype'),
+  url(../fonts/Playfair/PlayfairDisplay-Italic.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Muli-ExtraBold";
+  src: url(../fonts/Muli/Muli-ExtraBold.woff2) format('woff2'),
+  url(../fonts/Muli/Muli-ExtraBold.woff) format('woff'),
+  url(../fonts/Muli/Muli-ExtraBold.ttf) format('truetype'),
+  url(../fonts/Muli/Muli-ExtraBold.otf) format('opentype'),
+  url(../fonts/Muli/Muli-ExtraBold.eot) format('embedded-opentype');
+  font-display: fallback;
+}
+
+
